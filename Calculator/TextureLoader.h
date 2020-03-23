@@ -1,8 +1,6 @@
 /*
- * TextureLoader.h
- *
- *  Created on: Mar 20, 2020
- *      Author: musko
+ * Credit to the folks behind the SFML Game Development Book for teaching me this concept. It's a great book that everyone should check
+ * out if they plan to use SFML.
  */
 
 #ifndef TEXTURELOADER_H_
